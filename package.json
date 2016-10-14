@@ -1,0 +1,15 @@
+{
+  "name": "nwjs_github_release_updater",
+  "version": "1.0.0",
+  "description": "README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pietro Passarelli <pietro.passarelli@gmail.com> (http://pietropassarelli.com)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "unzip": "^0.1.11"
+  }
+}
